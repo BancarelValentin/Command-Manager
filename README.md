@@ -1,5 +1,8 @@
 Projet QtMobile : App de gestion de commandes SSH
 =================================================
+##Introduction
+
+Durant ma licence professionnel, j'ai eu l'occasion de développer en binôme une application mobile pour le système d'exploitation mobile Sailfish OS grace au language QT Mobile.
 
 ##Descriptif du projet
 
